@@ -51,28 +51,19 @@ const ruell = {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Francesco4u&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&cache_seconds=1800" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Francesco4u&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&cache_seconds=1800" alt="Top Languages" height="170" />
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Francesco4u&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
-</div>
+![](https://img.shields.io/github/followers/Francesco4u?style=for-the-badge&color=00D9FF&labelColor=0D1117&logo=github)
+![](https://komarev.com/ghpvc/?username=Francesco4u&color=00D9FF&style=for-the-badge&label=Profile+Views)
+![](https://img.shields.io/github/stars/Francesco4u?affiliations=OWNER&style=for-the-badge&color=00D9FF&labelColor=0D1117&logo=github)
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Francesco4u&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&cache_seconds=1800" alt="GitHub Trophies" />
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Francesco4u&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Activity Graph" />
@@ -97,7 +88,7 @@ const ruell = {
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-961641040798957588-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/961641040798957588)
+[![Discord](https://img.shields.io/badge/Discord-rullzvyline-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/961641040798957588)
 [![Email](https://img.shields.io/badge/Email-rullzvyline@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rullzvyline@gmail.com)
 
 </div>
